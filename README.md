@@ -70,14 +70,20 @@ The final deliverable is a 4-page interactive Excel dashboard with slicers for d
 ### Page 1 — Executive Overview
 High-level KPIs (customers, orders, revenue, average rating, sentiment breakdown), monthly feedback trend, feedback by product category, sentiment distribution, top 5 states by feedback volume, and daily feedback trend.
 
+<img width="1280" height="786" alt="image 1" src="https://github.com/user-attachments/assets/2ea2f1d0-7888-43c4-9a60-17adf5360fc5" />
+
 ### Page 2 — Product Insights
 Top 5 products by negative feedbacks, top 5 products by average rating, and feedback breakdown by product and category.
+<img width="1286" height="793" alt="image 2" src="https://github.com/user-attachments/assets/64b9ecba-06a4-465c-b59a-af49897bd2c6" />
 
 ### Page 3 — Customer Insights
 Spending behaviour and feedback patterns across US states.
+<img width="1288" height="794" alt="image 3" src="https://github.com/user-attachments/assets/b049994a-e833-43ea-bddb-9a965e64595a" />
+
 
 ### Page 4 — Insights & Recommendations
 Consolidated actionable findings for decision-makers.
+<img width="1292" height="786" alt="image 4" src="https://github.com/user-attachments/assets/c8bcf604-498e-4c80-879d-879b960176c9" />
 
 ---
 
